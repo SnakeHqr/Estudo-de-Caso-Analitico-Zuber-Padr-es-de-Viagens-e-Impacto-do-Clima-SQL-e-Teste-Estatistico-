@@ -1,0 +1,2 @@
+# Estudo-de-Caso-Anal-tico-Zuber-Padr-es-de-Viagens-e-Impacto-do-Clima-SQL-e-Teste-Estat-stico-
+Este projeto é um estudo de caso analítico completo para a nova empresa de compartilhamento de caronas Zuber (em Chicago). O trabalho envolveu a análise de um grande banco de dados relacional para encontrar padrões de preferência de passageirose, crucialmente, testar o impacto de fatores externos (clima) na frequência e duração das viagens.
